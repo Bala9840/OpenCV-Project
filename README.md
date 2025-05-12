@@ -1,2 +1,2 @@
-# NM_Lab
-Open CV
+# Naan Mudhalvan
+Develop Projects using Open CV On Google Collab
